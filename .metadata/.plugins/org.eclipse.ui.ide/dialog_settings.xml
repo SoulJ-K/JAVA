@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\02_variable"/>
+			<item value="D:\01_myFirstProject"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\KH\Eclipse\11_API"/>
+			<item value="D:\KH\Eclipse\10_polymorphism"/>
+			<item value="D:\KH\Eclipse\09_inheritance"/>
+			<item value="D:\KH\Eclipse\08_objectArray"/>
+			<item value="D:\KH\Eclipse\07_ObjectOrientedProgramming"/>
+			<item value="D:\KH\Eclipse\04_control"/>
+			<item value="D:\KH\Eclipse\06_dimensionalArray"/>
+			<item value="D:\KH\Eclipse\05_array"/>
+			<item value="D:\KH\Eclipse\03.1_Operator homeWork"/>
+			<item value="D:\KH\Eclipse\03_operator"/>
+			<item value="D:\KH\Eclipse\02_variable"/>
+			<item value="D:\KH\Eclipse\02-1_homeWork"/>
+			<item value="D:\KH\03_homeWork"/>
+			<item value="D:\KH\02_variable"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1577206247477"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="208"/>
+		<item key="DIALOG_Y_ORIGIN" value="223"/>
+		<item key="DIALOG_WIDTH" value="581"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+	</section>
+</section>

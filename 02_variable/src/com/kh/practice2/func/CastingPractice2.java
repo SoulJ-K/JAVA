@@ -1,0 +1,27 @@
+package com.kh.practice2.func;
+import java.util.Scanner;
+
+public class CastingPractice2 {
+	public void average() {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("국어 : ");
+		double ko = sc.nextDouble();
+		sc.nextLine();
+		
+		System.out.print("영어 : ");
+		double en = sc.nextDouble();
+		sc.nextLine();
+		
+		System.out.print("수학 : ");
+		double ma = sc.nextDouble();
+		
+		int pl = (int)(ko + en + ma);
+		System.out.println("총점 : " + pl);
+		
+		int av = pl/3;
+		//나누는 수를 3으로 고정하지 않고 자동으로 바꾸는 공식은?
+		System.out.println("평균 : " + av);
+	}
+
+}
